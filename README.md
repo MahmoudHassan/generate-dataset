@@ -7,4 +7,4 @@ pip install Faker
 pip install pandas
 ```
 for more information :
-See [Faker’s documentation!](https://faker.readthedocs.io/en/master/)
+See [Faker documentation!](https://faker.readthedocs.io/en/master/) ,[Pandas documentation!](https://pandas.pydata.org/)
